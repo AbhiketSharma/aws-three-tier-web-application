@@ -1,0 +1,21 @@
+# Secrets and environment files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials
+.aws/
+
+# Terraform local state and secrets
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+!example.tfvars
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
