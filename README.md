@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # AWS Three-Tier Web Application Architecture
 
 **A hands-on AWS cloud architecture project focused on traffic routing,
